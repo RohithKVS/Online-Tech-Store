@@ -1,0 +1,81 @@
+.bg-dark{
+	background-color: #737a81!important;
+}
+.tech-navbar
+{
+	margin-right: 10% !important;
+}
+.search-bar{
+	width: 70%;
+}
+.search-bar .form-control{
+	width: 65%;
+}
+.btn-outline-success {
+    color: #ffffff;
+    border-color: #ffffff;
+    margin-right: 1%;
+}
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #737a81;
+    border-color: #ffffff;
+}
+.btn-outline-success:not(:disabled):not(.disabled):active{
+	color: #fff;
+    background-color: #737a81;
+    border-color: #ffffff;
+}
+.address-div .form-control{
+	margin-bottom: 10px;
+}
+#result{
+	color: red;
+}
+.links{
+	color: white;
+	margin-right: 10px;
+}
+.login_logo{
+	margin-right: 5px;
+}
+.links:hover{
+	color: white;
+	text-decoration: none;
+}
+.carousel-inner{
+	height: 500px;
+}
+.success{
+	color : lightgreen;
+}
+.products_img{
+	height: 150px;
+	width: 270px;
+}
+.search-bar .sel_category{
+	width:130px!important;
+}
+.product{
+	color:black;
+}
+.product:hover{
+	text-decoration: none;
+	color:rgb(196,89,45);
+}
+.unsuccess{
+	color : red;
+}
+.page-item{
+	margin-left: 5px;
+}
+.pagination-page{
+	margin-top:10px;
+	margin-left:33%;
+}
+.each_order_history{
+	margin-top: 10px;
+}
+.alert-warning, .alert-danger{
+	margin-right: 58%;
+}
